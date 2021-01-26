@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: PyBots
-=======
-title: 
->>>>>>> ba800305da40b08e8612767a89e7f83602f59d6f
 layout: page
 use-site-title: false
 ---
@@ -49,7 +45,7 @@ with TCPBot("LAN_host", 1234, no_proxy=True) as bot:
 
 Real-Life Projects:
 
-* [Bots Scheduler](https://github.com/dhondta/bots-scheduler) (uses [`ShodanBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/shodan.py), [`HaveIBeenPwnedBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/haveibeenpwned.py), [`GhostProjectBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/ghostproject.py) and a few others)
+* [Bots Scheduler](https://github.com/dhondta/bots-scheduler/) (uses [`ShodanBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/shodan.py), [`HaveIBeenPwnedBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/haveibeenpwned.py), [`GhostProjectBot`](https://github.com/dhondta/python-pybots/blob/master/pybots/bots/security/ghostproject.py) and a few others)
 
 CTF:
 
