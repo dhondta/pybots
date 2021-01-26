@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: PyBots
+=======
+title: 
+>>>>>>> ba800305da40b08e8612767a89e7f83602f59d6f
 layout: page
 use-site-title: false
 ---
